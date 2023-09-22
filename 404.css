@@ -1,0 +1,19 @@
+body {
+    background-color: rgb(255, 255, 255);
+}
+
+.test {
+    font-family: 'Bootstrap-icons';
+}
+
+.comportamento {
+    list-style-type: upper-roman;
+}
+
+.emojis {
+    list-style-type: square;
+}
+img{
+    width: 30px;
+    height: 30px;
+}
